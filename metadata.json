@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect - Mysuru District Blood Donation Platform",
+  "description": "Location-restricted voluntary blood donor connection and emergency blood request coordination platform exclusively for Mysuru district, Karnataka, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
